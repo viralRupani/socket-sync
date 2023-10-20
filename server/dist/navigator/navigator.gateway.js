@@ -46,7 +46,7 @@ __decorate([
 ], NavigatorGateway.prototype, "handleConnection", null);
 exports.NavigatorGateway = NavigatorGateway = __decorate([
     (0, websockets_1.WebSocketGateway)({
-        cors: true
+        cors: true,
     })
 ], NavigatorGateway);
 //# sourceMappingURL=navigator.gateway.js.map
